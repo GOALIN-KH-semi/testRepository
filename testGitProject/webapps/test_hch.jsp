@@ -7,6 +7,6 @@
 <title>hch JSP 테스트</title>
 </head>
 <body>
-
+	HCH 의 깃 테스트용 JSP 입니다.
 </body>
 </html>
