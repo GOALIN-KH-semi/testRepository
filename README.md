@@ -7,7 +7,6 @@ test용 저장소 입니다. (조성아)
 3. 어제는?
 
 
-![브루니](https://user-images.githubusercontent.com/66407391/85966469-dc777400-b9fa-11ea-871a-86a2d578b23b.jpg)
 
 
 뀨?!?
